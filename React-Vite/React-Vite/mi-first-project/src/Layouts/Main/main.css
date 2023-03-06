@@ -1,0 +1,8 @@
+main {
+    display: flex;
+}
+
+.img-Main {
+    width: 50rem;
+    height: 50rem;
+}
